@@ -1,3 +1,6 @@
+para rodar o app:
+    npm run dev
+
 //mx --> margem no eixo x
     //my --> margin top e bottom (eixo y)
     //mt --> margin top
